@@ -96,7 +96,7 @@ input:focus {
   background-color: yellow;    
 }
 #leftbox {
-    position: absolute;
+
     float:left; 
     background:transparent;
     width:160;
@@ -109,7 +109,7 @@ input:focus {
     height:280px;
 }
 #rightbox{
-    position: absolute;
+
     float:right;
     background:transparent;
     width:160;
