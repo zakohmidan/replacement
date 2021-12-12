@@ -103,10 +103,11 @@ input:focus {
     height:600px;
 }
 #middlebox{
-    float:left; 
-    background:Green;
-    /*width:50%;*/
-    height:280px;
+    /*float:left;*/
+    position: absolute;
+    background:transparent;
+    /*width:50%;
+    height:280px;*/
 }
 #rightbox{
 
