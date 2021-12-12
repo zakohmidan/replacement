@@ -103,8 +103,8 @@ input:focus {
     height:600px;
 }
 #middlebox{
-    /*float:left;*/
-    position: absolute;
+    float:center;
+    /*position: absolute;*/
     background:transparent;
     /*width:50%;
     height:280px;*/
